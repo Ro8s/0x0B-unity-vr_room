@@ -1,5 +1,7 @@
 ## 0x0B-unity-vr_room
 
+![Alt Text](https://c.tenor.com/wIEwdVqiQegAAAAC/escape-room-hidden-door.gif)
+
 ## Credits:
 
 ## [Melody loop 107 bpm by DaveJf](https://freesound.org/people/DaveJf/sounds/623616/)
