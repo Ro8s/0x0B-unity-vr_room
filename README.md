@@ -13,3 +13,6 @@
 
 ## [UI Confirmation, Synthesized » UI Confirmation Alert, C3.wav by InspectorJ](https://freesound.org/people/InspectorJ/sounds/403017/)
 
+## Tutorial:
+
+To run the project it's necessary download and install from the package manager the XR toolkit, XR plugin managment, Oculus xr plugin and URP
