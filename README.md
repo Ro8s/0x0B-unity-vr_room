@@ -1,6 +1,10 @@
-## 0x0B-unity-vr_room
+# 0x0B-unity-vr_room
+
+## Time to escape!
 
 ![Alt Text](https://c.tenor.com/wIEwdVqiQegAAAAC/escape-room-hidden-door.gif)
+
+### This time I bring an escape room experience, where you have to find key objects to progress and win the game!
 
 ## Credits:
 
@@ -16,3 +20,6 @@
 ## Tutorial:
 
 To run the project it's necessary download and install from the package manager the XR toolkit, XR plugin managment, Oculus xr plugin and URP
+
+# Author
+  - [Rodolfo Delgado](https://www.linkedin.com/in/rodolfo-delgado-alonso/)
